@@ -5,7 +5,7 @@ from sklearn.ensemble import RandomForestClassifier
 
 st.title('🤖 Machine Learning App')
 
-st.info('This is app builds a machine learning model!')
+st.info('مشروع تخرج: بناء تطبيق تعلم الاله')
 
 with st.expander('Data'):
   st.write('**Raw data**')
